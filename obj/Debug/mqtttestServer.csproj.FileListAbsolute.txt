@@ -1,0 +1,17 @@
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\mqtttest.exe.config
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\mqtttest.exe
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\mqtttest.pdb
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\MQTTnet.dll
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Serilog.dll
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Serilog.xml
+C:\Users\MH\source\repos\mqtttest\mqtttest\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttestServer.csproj.AssemblyReference.cache
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttestServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttestServer.csproj.CoreCompileInputs.cache
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttestServer.csproj.CopyComplete
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttest.exe
+C:\Users\MH\source\repos\mqtttest\mqtttest\obj\Debug\mqtttest.pdb
